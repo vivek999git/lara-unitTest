@@ -16,8 +16,8 @@ php artisan make:class Calculator
 php artisan make:test CalculatorTest --unit
 
 3)Run the test <br>
-php artisan test
-php artisan test --filter UserTest
-php artisan test --filter UserTest@test_user_creation
+php artisan test <br>
+php artisan test --filter UserTest <br>
+php artisan test --filter UserTest@test_user_creation <br>
 
  
