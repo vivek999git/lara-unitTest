@@ -9,7 +9,7 @@
 
 ## Steps Involved
 
-1)Make a class 
+1)Make a class <br>
 php artisan make:class Calculator
 
 2)Make a test 
