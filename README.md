@@ -12,10 +12,10 @@
 1)Make a class <br>
 php artisan make:class Calculator
 
-2)Make a test 
+2)Make a test <br>
 php artisan make:test CalculatorTest --unit
 
-3)Run the test
+3)Run the test <br>
 php artisan test
 php artisan test --filter UserTest
 php artisan test --filter UserTest@test_user_creation
