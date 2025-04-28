@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+## About Project
+This project is about creating Unit Test in Laravel.
+
 ## Steps Involved
 
 1)Make a class <br>
